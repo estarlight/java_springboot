@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: displaydate
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: estherlee
+Implementation-Vendor-Id: com.esther.displaydate
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/displaydate
+Created-By: Maven Integration for Eclipse
+
