@@ -1,0 +1,42 @@
+.box {
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    border: 1px solid black;
+    display: inline-block;
+    text-align: center;
+    padding-top: 23px;
+    }
+
+.container {
+    padding: 20px;
+    text-align: center;
+    margin: auto;
+}
+
+.block {
+    display: block;
+}
+
+.activity_box {
+    border: 1px solid black;
+    width: 75%;
+    min-height: 300px;
+}
+
+.btn {
+    margin: auto;
+}
+
+div {
+    text-align: center;
+    margin: auto;
+}
+
+.win {
+    color: green;
+}
+
+.lose {
+    color: red;
+}
