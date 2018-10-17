@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: firstproject
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: estherlee
+Implementation-Vendor-Id: com.esther.firstproject
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/firstproject
+Created-By: Maven Integration for Eclipse
+
